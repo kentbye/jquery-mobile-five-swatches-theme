@@ -17,7 +17,7 @@ These can go before the other jQuery CSS and JavaScript files of
     <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script> 
     <script src="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script> 
 
-## Usage
+## Deprecated Color Swatches
 I wanted to have some more color options like is shown in this [JSfiddle example](http://jsfiddle.net/Sgrve/20/) using the default jQuery mobile theme from version 1.3.
 
 However, three swatches from the default jQuery Mobile theme that were deprecated, and according to the [jQuery Mobile 1.4 Upgrade guide](https://github.com/jquery/jquery-mobile/wiki/1.4-Upgrade-Guide):
